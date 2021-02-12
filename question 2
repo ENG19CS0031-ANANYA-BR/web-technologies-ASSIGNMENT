@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>question 2</title>
+  </head>
+
+  <body>
+    <p><a href="https://www.google.com/" style="background-color:yellow;">About</a>
+      <a href="https://www.google.com/" style="background-color:yellow;">Introduction</a>
+       <a href="http://www.google.com/" style="background-color:yellow;">Achievements</a>
+        <a href="http://www.google.com/"style="background-color:yellow;">Education</a>
+        <a href="http://www.google.com/"style="background-color:yellow;">Contact Us</a></p>
+  </body>
+</html>
