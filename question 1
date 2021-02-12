@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>question 1</title>
+  </head>
+  <body>
+    <h1>Character Entities Example:</h1>
+    <ol>
+      <li><p>The address of a variable is represented as &ampa;</li>
+        <li><p>5&lt6;</p></li>
+        <li><p>10&gt5</p></li>
+        <li><p>This represents &quot;<b>double quote</b>&quot;</p></li>
+        <li><p>This represents &apos;<b>Single qoute</b>&apos;</p></li>
+        <li><p>One-fifth fraction is represented as &frac15;</p></li>
+        <li><p>The degree is represented as &deg180;</p></li>
+        <li><p>The curreency of europe is &euro;</p></li>
+        <li><p style="background-color:yellow;">&copy; Jan 2021,Your Name.All copyrights reserved</p></li>
+        <li><p>this is &nbsp space</p></li>
+    </ol>
+</body>
+</html>
